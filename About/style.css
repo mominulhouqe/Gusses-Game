@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+ 
+}
+.hero{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+
+
+}
+nav{
+    display: flex;
+    align-items: center;
+   
+    width: 84%;
+    margin: auto;
+    justify-content: space-between;
+    padding: 20px 0;
+
+   
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+nav ul li a{
+   text-decoration: none;
+   color: black;
+   font-weight: bolder;
+
+}
+nav ul li a:hover{
+    color: rgb(255, 0, 0);
+}
+.detals{
+    margin-left: 8%;
+    margin-top: 13%;
+
+}
+.detals h1{
+    color: black;
+    font-size: 50px;
+    margin-bottom: 20px;
+    
+}
+span{
+    color: orange;
+}
+.detals p{
+    color: #5555;
+    line-height: 22px;
+}
+.detals a{
+    background-color: #2c83f4;
+    color: white;
+    text-decoration: none;
+    margin: 30px 0;
+    display: inline-block;
+    padding: 10px 18px;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+.images{
+    width: 40%;
+    height: 80%;
+    position: absolute;
+    bottom: 0;
+    right: 100px;
+    border-radius: 50%;
+    border-left: 70%;
+}
+.images img{
+    width: 390px;
+    height: 100%;
+    background-color: rgb(34, 88, 135);
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    border-radius: 50%;
+    border: 1px solid turquoise;
+    top: 60px;
+    
+}
+.div1 img{
+    float: left;
+    margin-right: 100px;
+
+
+}
+.div1{
+    margin: auto;
+    margin-top: 100px;
+    
+
+}
+.div1 h2{
+
+    text-transform: capitalize;
+    
+}
+.card p:hover{
+    color: orange;
+   
+}
+.card{
+    border-radius: 20px;
+}
+.icon{
+    font-size: 40px;
+    margin: 10px;
+    
+}
+input{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+}
+.inpt{
+    height: 100px;
+}
+form h2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+}
+.contact-social-midea{
+    background-color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.contact-social-midea a{
+    padding: 20px;
+}
+.text-centers{
+    text-align: center;
+    font-size: small;
+}
+.text-p{
+    font-weight: 300;
+}
