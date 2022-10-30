@@ -18,7 +18,7 @@ let Numberoflost = 0;
     Numberoflost ++;
 } 
  }
-document.write("Total Number of won = "+Numberofwon + "<br/> <br/>");
-document.write("Totla Number of Lost = "+ Numberoflost+ "<br/> <br/>");
+document.write("Total Number of You won = "+Numberofwon + "<br/> <br/>");
+document.write("Totla Number of You Lost = "+ Numberoflost+ "<br/> <br/>");
 
 
