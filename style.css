@@ -53,13 +53,13 @@ header{
 .button{
     position: absolute;
     top: 70%;
-    left: 30%;
+    left: 35%;
     transform: translate(-20%,-30%);
  
 }
 .btn{
     border: 1px solid #fff;
-    padding: 10px 30px;
+    padding: 12px 36px;
     color: #fff;
     text-decoration: none;
     border-radius: 9px;
@@ -75,4 +75,12 @@ header{
 }
 .menu ul{
     text-align: right;
+}
+video{
+    width: 300px;
+    height: auto;
+    border-radius: 20px;
+    position:absolute;
+    top: 35px;
+    right: -90px;
 }
