@@ -19,6 +19,6 @@ let Numberoflost = 0;
 } 
  }
 document.write("Total Number of You won = "+Numberofwon + "<br/> <br/>");
-document.write("Totla Number of You Lost = "+ Numberoflost+ "<br/> <br/>");
+document.write("Total Number of You Lost = "+ Numberoflost+ "<br/> <br/>");
 
 
